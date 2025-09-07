@@ -1,7 +1,6 @@
 
 # Normalized Difference Vegetation Index Analysis
 
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{owner}/{repo}/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{owner}/{repo})
 A widely used metric for quantifying the health and density of vegetation using sensor data.
 
 
